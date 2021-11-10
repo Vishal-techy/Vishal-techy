@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal-techy. I am the Co-founder of A2Z Techvalley.
-- 👀 I’m interested in Robotics, web and app dev, hardware, etc...
-- 🌱 I’m currently learning web development
+- 👀 Front-End Developer, UI-UX Designer, Youtuber
+- 🌱 I’m currently learning iOS Development
 
 
 <!---
